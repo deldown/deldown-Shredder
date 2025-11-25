@@ -32,7 +32,7 @@ Inhaltsverzeichnis:
 
 
 # Installation
-[(Back to top)](#table-of-contents)
+[(Nach oben)](#table-of-contents)
 
 Wie man sich den Source Code von deldown Shredder von Github CLI cloned:
 
@@ -50,13 +50,13 @@ Oder auf Windows kann man den Installer öffnen, und dann kann man die exe Datei
 
 
 # Gebrauchsanweisungen
-[(Back to top)](#table-of-contents)
+[(Nach oben)](#table-of-contents)
 
 Einfach die Datei auswählen, Vernichtungsmethode auswählen, und dann "Dateien vernichten" klicken.
 
 
 # Development
-[(Back to top)](#table-of-contents)
+[(Nach oben)](#table-of-contents)
 
 Wie man deldown Shredder im Code nutzt:
 
@@ -66,7 +66,7 @@ gh repo clone deldown/deldown-Shredder
 
 
 # License
-[(Back to top)](#table-of-contents)
+[(Nach oben)](#table-of-contents)
 
 [MIT license](./LICENSE)
 
