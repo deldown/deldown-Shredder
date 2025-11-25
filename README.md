@@ -61,9 +61,7 @@ Einfach die Datei auswählen, Vernichtungsmethode auswählen, und dann "Dateien 
 Wie man deldown Shredder im Code nutzt:
 
 ```shell
-command to clone your project
-command to build your project
-command to run your project in development mode
+gh repo clone deldown/deldown-Shredder
 ```
 
 
