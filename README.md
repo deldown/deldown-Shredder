@@ -3,12 +3,12 @@
 
 # deldown Shredder
 
-![deldown logo](https://img.shields.io/static/v1?label=del&message=down&labelColor=00008B&color=87CEFA)
-[![GitHub release](https://img.shields.io/github/v/release/deldown/deldown-Shredder?include_prereleases)](https://img.shields.io/github/v/release/deldown/deldown-Shredder?include_prereleases)
-[![GitHub last commit](https://img.shields.io/github/last-commit/deldown/deldown-Shredder)](https://img.shields.io/github/last-commit/deldown/deldown-Shredder)
-[![GitHub issues](https://img.shields.io/github/issues-raw/deldown/deldown-Shredder)](https://img.shields.io/github/issues-raw/deldown/deldown-Shredder)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/deldown/deldown-Shredder)](https://img.shields.io/github/issues-pr/deldown/deldown-Shredder)
-[![GitHub](https://raw.githubusercontent.com/NotAMonkeIRL/NotAMonkeIRL/d62bb3c97db6417c8f3ce1f0fad6dd78f215ce85/files/pictures/licenses/license_%20MIT.svg)](https://raw.githubusercontent.com/NotAMonkeIRL/NotAMonkeIRL/d62bb3c97db6417c8f3ce1f0fad6dd78f215ce85/files/pictures/licenses/license_%20MIT.svg)
+![deldown logo](https://img.shields.io/static/v1?label=del&message=down&labelColor=00008B&color=87CEFA) <br>
+[![GitHub release](https://img.shields.io/github/v/release/deldown/deldown-Shredder?include_prereleases)](https://img.shields.io/github/v/release/deldown/deldown-Shredder?include_prereleases) <br>
+[![GitHub last commit](https://img.shields.io/github/last-commit/deldown/deldown-Shredder)](https://img.shields.io/github/last-commit/deldown/deldown-Shredder) <br>
+[![GitHub issues](https://img.shields.io/github/issues-raw/deldown/deldown-Shredder)](https://img.shields.io/github/issues-raw/deldown/deldown-Shredder) <br>
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/deldown/deldown-Shredder)](https://img.shields.io/github/issues-pr/deldown/deldown-Shredder) <br>
+[![GitHub](https://raw.githubusercontent.com/NotAMonkeIRL/NotAMonkeIRL/d62bb3c97db6417c8f3ce1f0fad6dd78f215ce85/files/pictures/licenses/license_%20MIT.svg)](https://raw.githubusercontent.com/NotAMonkeIRL/NotAMonkeIRL/d62bb3c97db6417c8f3ce1f0fad6dd78f215ce85/files/pictures/licenses/license_%20MIT.svg) <br>
 
 > **Wichtig!**: Wir, deldown übernehmen keine Haftung für schäden an deinem Computer, während dieses Programm läuft.
 
