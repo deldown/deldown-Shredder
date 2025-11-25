@@ -15,18 +15,18 @@
 deldown Shredder ist eine Sichere Art & Weise um Daten auf deinem PC zu vernichten.
 Für Hilfe und Informationen könnt auf unserem Discord Server kommen: https://discord.gg/XykvEYPFZM
 
-# Quick Start Demo
+# Demo
 
 ![Demo](https://raw.githubusercontent.com/NotAMonkeIRL/NotAMonkeIRL/refs/heads/main/files/pictures/deldown/ds.png)
 
 Vorschau (Das Design kann sich immer ändern, aber dann wird auch das Bild ersetzt)
 
-# Table of Contents
+# Inhaltsverzeichnis
 
 Inhaltsverzeichnis:
-- [Quick Start Demo](#quick-start-demo)
+- [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Gebrauchsanweisungen](#gebrauchsanweisungen)
 - [Development](#development)
 - [License](#license)
 
@@ -49,7 +49,7 @@ git clone https://github.com/deldown/deldown-Shredder/
 Oder auf Windows kann man den Installer öffnen, und dann kann man die exe Datei von deldown Shredder ausführen.
 
 
-# Usage
+# Gebrauchsanweisungen
 [(Back to top)](#table-of-contents)
 
 Einfach die Datei auswählen, Vernichtungsmethode auswählen, und dann "Dateien vernichten" klicken.
